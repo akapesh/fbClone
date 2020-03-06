@@ -1,0 +1,61 @@
+body{
+    background-color: #edf0f5;
+}   
+.section{
+    background-color: #3d5b99;
+    height: 80px;
+    border-bottom: 1px solid #133783;
+}
+.logo{
+    margin: 20px;
+}
+.signup{
+    color: #e1ebd3;
+    font-size: small;
+    
+}
+.btn_log{
+    background-color: #4267b2;
+    color: #e1ebd3;
+    border: 1px solid #133783;
+}
+.intro{
+    color: #333;
+    font-size: 28px;
+    font-family: Freight Sans Bold, Helvetica, Arial, sans-serif !important;
+    font-weight: bold;
+}
+.par{
+    position: relative; 
+    left: 80px; 
+    bottom: 30px; 
+    color: black;
+ 
+}
+.form-control{
+    color: #9f9f9f;
+}
+.below{
+    font-size: 12px;
+    color: #909192;
+}
+.below1{
+    color: #909192;
+    font-size: 13px;
+}
+.link{
+    color: #38589a;
+}
+.btn-success{
+    background-color: #5e994b;
+    border: 1px solid #3b6e22;
+    border-radius: 5px;
+    height: 2rem;
+    width: 180px;
+    color: #ffffff;
+}
+
+.footer{
+    height: 140px;
+
+}
